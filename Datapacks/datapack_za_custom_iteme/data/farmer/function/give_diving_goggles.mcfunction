@@ -1,0 +1,1 @@
+give @s minecraft:rabbit_foot[equippable={slot:"head"},custom_name={"text":"Ronilačke naočale","bold":true,"color":"aqua","italic":false},lore=[{"text":"Stvoreno za dubine","color":"gray","italic":false}],custom_model_data={floats:[100005]},rarity=rare,enchantment_glint_override=false] 1

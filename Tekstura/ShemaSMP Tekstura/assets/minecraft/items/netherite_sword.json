@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_sword"
+        },
+        "entries": [
+            {
+                "threshold": 100009,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/blood_sword"
+                }
+            },
+            {
+                "threshold": 100015,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/sword"
+                }
+            },
+            {
+                "threshold": 100016,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/greatsword"
+                }
+            }
+        ]
+    }
+}

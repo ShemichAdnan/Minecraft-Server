@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mypack:plains_kamenje",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 111222,
+    "spacing": 12,
+    "separation": 8,
+    "frequency_reduction_method": "default"
+  }
+}

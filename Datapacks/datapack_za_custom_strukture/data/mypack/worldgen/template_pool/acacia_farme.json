@@ -1,0 +1,15 @@
+{
+  "name": "mypack:acacia_farme",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "mypack:acacia_farme",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mypack:end_kula",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "mypack:end_kula",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}

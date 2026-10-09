@@ -1,0 +1,1 @@
+give @s minecraft:paper[equippable={slot:"head"},custom_name={"text":"Poklopac za smece","bold":true,"color":"dark_green","italic":false},lore=[{"text":"Neko ga je bacio. Ti ga nosis.","color":"gray","italic":false}],custom_model_data={floats:[100003]},enchantable={value:15},enchantment_glint_override=false] 1

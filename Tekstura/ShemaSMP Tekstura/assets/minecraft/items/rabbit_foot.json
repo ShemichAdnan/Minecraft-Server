@@ -1,0 +1,26 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/rabbit_foot"
+		},
+		"entries": [
+			{
+				"threshold": 100002,
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:item/ruby"
+				}
+			},
+			{
+                "threshold": 100005,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/diving_goggles"
+                }
+            }
+		]
+	}
+}

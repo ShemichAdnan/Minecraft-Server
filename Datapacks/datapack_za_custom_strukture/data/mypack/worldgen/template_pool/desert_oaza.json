@@ -1,0 +1,15 @@
+{
+  "name": "mypack:desert_oaza",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "mypack:desert_oaza",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}

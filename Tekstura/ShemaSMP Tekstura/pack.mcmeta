@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 84,
+		"supported_formats": {
+			"min_inclusive": 84,
+			"max_inclusive": 300
+		},
+		"description": "Shema SMP S2 Custom texture pack!"
+	}
+}

@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 100001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/farmerhat"
+                }
+            },
+            {
+                "threshold": 100003,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/garbagehat"
+                }
+            },
+            {
+                "threshold": 100008,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/treasure_hunter_hat"
+                }
+            },
+            {
+                "threshold": 100017,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/tricorne"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mypack:spruce_sator",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "mypack:spruce_sator",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}

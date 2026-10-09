@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mypack:end_kula",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 332324,
+    "spacing": 15,
+    "separation": 12,
+    "frequency_reduction_method": "default"
+  }
+}

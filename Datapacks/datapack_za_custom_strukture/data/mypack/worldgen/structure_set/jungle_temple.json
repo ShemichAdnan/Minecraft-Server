@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "mypack:jungle_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 445566,
+    "spacing": 12,
+    "separation": 8,
+    "frequency_reduction_method": "default"
+  }
+}

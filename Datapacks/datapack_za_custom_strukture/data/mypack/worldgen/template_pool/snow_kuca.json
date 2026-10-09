@@ -1,0 +1,15 @@
+{
+  "name": "mypack:snow_kuca",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "mypack:snow_kuca",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Ruby Currency - svaki advancement daje 1x Ruby (rabbit foot)",
+    "pack_format": 107,
+    "min_format": [
+      107,
+      0
+    ],
+    "max_format": [
+      107,
+      1
+    ]
+  }
+}

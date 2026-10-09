@@ -1,0 +1,1 @@
+give @s minecraft:paper[equippable={slot:"head"},custom_name={"text":"Farmerova Kapa","bold":true,"color":"gold","italic":false},lore=[{"text":"Ne skida se lako","color":"gray","italic":false}],custom_model_data={floats:[100001]},rarity=rare,enchantable={value:15},enchantment_glint_override=false] 1
